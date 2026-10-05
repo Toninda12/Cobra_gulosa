@@ -13,7 +13,7 @@ clock = pygame.time.Clock()
 
 #colors rgb
 black = (0, 0, 0)
-white = (220,0,255)
+white = (255,255,255)
 red = (255, 0, 0)
 green = (0, 255, 0)
 
